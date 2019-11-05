@@ -1,12 +1,41 @@
 {
-"status" : "true",
-"startDate" : "2019-11-01 18:00",
-"endDate" : "2019-11-02 23:59",
-"webDesktopImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
-"webDesktopUrl" : [{
-"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0919",
-"membership" : ,
-"cg" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-CG-Mobile&utm_campaign=FlashSale-0919",
-"prologmateri" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Prolog-Materi-Mobile&utm_campaign=FlashSale-0919",
-"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"
+	"status" : "true",	
+	"startDate" : "2019 10 05 14 20 0",
+	"endDate" : "2019 10 05 15 0 0",
+	"desktopImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/-Banner-30_ok.png",
+	"desktopUrl" : {
+		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-mobile&utm_campaign=FlashSale-0919",
+		"membership" : "",
+		"cg" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-CG-mobile&utm_campaign=FlashSale-0919",
+		"prologmateri" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Prolog-Materi-mobile&utm_campaign=FlashSale-0919",
+		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-mobile&utm_campaign=FlashSale-0919"	
+	},
+	"desktopRole" : "guest/member",
+	"mobileImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
+	"mobileUrl" : {
+		"home" : "https://fdl.zenius.net/mobile/membership",
+		"membership" : "https://fdl.zenius.net/mobile/membership",
+		"cg" : "https://fdl.zenius.net/mobile/membership",
+		"prologmateri" : "https://fdl.zenius.net/mobile/membership",
+		"downloadSoal" : "https://fdl.zenius.net/mobile/membership"	
+	},
+	"mobileRole" : "guest/member",
+	"iosImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
+	"iosUrl" : {
+		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0919",
+		"membership" : "http://url.com",
+		"cg" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-CG-Mobile&utm_campaign=FlashSale-0919",
+		"prologmateri" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Prolog-Materi-Mobile&utm_campaign=FlashSale-0919",
+		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
+	},
+	"iosRole" : "guest/member",
+	"iphoneImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
+	"iphoneUrl" : {
+		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0919",
+		"membership" : "http://url.com",
+		"cg" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-CG-Mobile&utm_campaign=FlashSale-0919",
+		"prologmateri" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Prolog-Materi-Mobile&utm_campaign=FlashSale-0919",
+		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
+	},
+	"iphoneRole" : "guest/member"
 }
