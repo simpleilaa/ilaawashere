@@ -1,7 +1,7 @@
 {
-	"status" : "jabaja",	
-	"startDate" : "2019 10 05 14 20 0",
-	"endDate" : "2019 10 05 15 0 0",
+	"status" : "true",	
+	"startDate" : "2019 10 05 18 0 0",
+	"endDate" : "2019 10 05 22 0 0",
 	"desktopImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/-Banner-30_ok.png",
 	"desktopUrl" : {
 		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-mobile&utm_campaign=FlashSale-0919",
@@ -23,7 +23,7 @@
 	"iosImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
 	"iosUrl" : {
 		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0919",
-		"membership" : "null",
+		"membership" : "",
 		"cg" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-CG-Mobile&utm_campaign=FlashSale-0919",
 		"prologmateri" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Prolog-Materi-Mobile&utm_campaign=FlashSale-0919",
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
