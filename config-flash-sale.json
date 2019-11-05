@@ -2,7 +2,7 @@
 	"status" : "true",	
 	"startDate" : "2019 10 05 18 0 0",
 	"endDate" : "2019 10 05 22 0 0",
-	"desktopImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/-Banner-30_ok.png",
+	"desktopImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
 	"desktopUrl" : {
 		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-mobile&utm_campaign=FlashSale-0919",
 		"membership" : "",
@@ -20,7 +20,7 @@
 		"downloadSoal" : "https://fdl.zenius.net/mobile/membership"	
 	},
 	"mobileRole" : "guest/member",
-	"iosImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
+	"iosImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
 	"iosUrl" : {
 		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-Mobile&utm_campaign=FlashSale-0919",
 		"membership" : "",
