@@ -1,15 +1,15 @@
 {
 	"status" : "true",
-    "prod" : "false",	
+    "prod" : "true",	
 	"startDate" : "2019 10 06 12 0 0",
-	"endDate" : "2019 10 07 23 30 0",
-	"desktopImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/WEB-Banner-30_ok.png",
+	"endDate" : "2019 10 20 23 59 59",
+	"desktopImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web-Banner-copy.jpg",
 	"desktopUrl" : {
-		"home" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Home-mobile&utm_campaign=FlashSale-0919",
-		"membership" : "",
-		"cg" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-CG-mobile&utm_campaign=FlashSale-0919",
-		"prologmateri" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Prolog-Materi-mobile&utm_campaign=FlashSale-0919",
-		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-mobile&utm_campaign=FlashSale-0919"	
+		"home" : "https://fdl.zenius.net/mobile/appinstall-promo30",
+		"membership" : "https://fdl.zenius.net/mobile/appinstall-promo30",
+		"cg" : "https://fdl.zenius.net/mobile/appinstall-promo30",
+		"prologmateri" : "https://fdl.zenius.net/mobile/appinstall-promo30",
+		"downloadSoal" : "https://fdl.zenius.net/mobile/appinstall-promo30"	
 	},
 	"desktopRole" : {
 		"inactive" : false,
@@ -18,13 +18,13 @@
 		"premium" : false,
 		"all" : false
 	},
-	"mobileImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/22OCT.jpg",
+	"mobileImg" : "https://zeniuseducation.com/wp-content/uploads/2019/11/Web2-copy.jpg",
 	"mobileUrl" : {
-		"home" : "https://fdl.zenius.net/mobile/membership",
-		"membership" : "https://fdl.zenius.net/mobile/membership",
-		"cg" : "https://fdl.zenius.net/mobile/membership",
-		"prologmateri" : "https://fdl.zenius.net/mobile/membership",
-		"downloadSoal" : "https://fdl.zenius.net/mobile/membership"	
+		"home" : "https://fdl.zenius.net/mobile/appinstall-promo30",
+		"membership" : "https://fdl.zenius.net/mobile/appinstall-promo30",
+		"cg" : "https://fdl.zenius.net/mobile/appinstall-promo30",
+		"prologmateri" : "https://fdl.zenius.net/mobile/appinstall-promo30",
+		"downloadSoal" : "https://fdl.zenius.net/mobile/appinstall-promo30"	
 	},
 	"mobileRole" : {
 		"inactive" : false,
@@ -42,9 +42,9 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"iosRole" : {
-		"inactive" : false,
-		"guest" : true,
-		"member" : true,
+		"inactive" : true,
+		"guest" : false,
+		"member" : false,
 		"premium" : false,
 		"all" : false
 	},
@@ -57,9 +57,9 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"iphoneRole" : {
-		"inactive" : false,
-		"guest" : true,
-		"member" : true,
+		"inactive" : true,
+		"guest" : false,
+		"member" : false,
 		"premium" : false,
 		"all" : false
 	}
