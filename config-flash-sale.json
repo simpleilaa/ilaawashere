@@ -42,9 +42,9 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"iosRole" : {
-		"inactive" : false,
-		"guest" : true,
-		"member" : true,
+		"inactive" : true,
+		"guest" : false,
+		"member" : false,
 		"premium" : false,
 		"all" : false
 	},
@@ -57,9 +57,9 @@
 		"downloadSoal" : "https://www.zenius.net/membership?utm_source=Internal&utm_medium=Internal-Ad-Download-Soal-Mobile&utm_campaign=FlashSale-0919"	
 	},
 	"iphoneRole" : {
-		"inactive" : false,
-		"guest" : true,
-		"member" : true,
+		"inactive" : true,
+		"guest" : false,
+		"member" : false,
 		"premium" : false,
 		"all" : false
 	}
